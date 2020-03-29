@@ -28,7 +28,7 @@ Windows
 Check out this site https://rubyinstaller.org/
 
 
-# Gems installation
+## Gems installation
 You need to install the following gems in order to run the these scripts
 
 Nokogiri
