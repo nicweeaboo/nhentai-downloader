@@ -10,6 +10,8 @@ from given tag or search.
 The program will ask the user to input a search/tag, the page want to be downloaded and if want to download the sort by
 recents or popular.
 
+Once the program is executed it creates a new folder with name of your search/tag input and save each manga in their individually folders.
+
 ![](image.png)
 
 ## Installation
