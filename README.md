@@ -1,7 +1,7 @@
 # Download NHentai Mangas without an account
 
 These Ruby sript are to download the nhentai's manga without an account. It does take more time a more than 
-to download then individually using scrapping method, but you can execute the script and leave it be downloading.
+to download then individually using the download button method, but you can execute the script and leave it be downloading.
 
 You can download just one manga using the script 'nhentai.rb' and paste the manga's url once the script is executed.
 
