@@ -55,4 +55,3 @@ gem install progress_bar
 ```
 And that's it.   
 
-Carefull, There is some issues related to the folders. The program will create a folder with the given tag or search's name, but if the folder already exist the program will failed. For instance, you have downloaded the page 1 from 'gyaru' tag. If you try to run again to download the page 2 from tag 'gyaru', it won't work because the folder gyaru already exist. I still working on it to solve this.
