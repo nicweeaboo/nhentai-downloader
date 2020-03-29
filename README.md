@@ -13,7 +13,7 @@ recents or popular.
 ![](image.png)
 
 ## Installation
-# Ruby Installation
+### Ruby Installation
 
 First all, you need to have Ruby programming language installed.
 
