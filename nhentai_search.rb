@@ -45,8 +45,8 @@ class Nhentai
   end
 
   def scrapping 
-    FileUtils.mkdir "#{search.tr!('+',' ')}"
-    Dir.chdir("#{Dir.pwd.chomp}/#{search}") do
+    FileUtils.mkdir "#{search.tr!('+',' ')}_page#{page}"
+    Dir.chdir("#{Dir.pwd.chomp}/#{search}_page#{page}") do
       @doujinshis_urls.each do |doujin|
         doujinshi_url = "https://nhentai.net#{doujin}"
         parsed_html = parsing(doujinshi_url)
