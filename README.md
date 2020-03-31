@@ -13,7 +13,7 @@ recents or popular.
 Once the program is executed it creates a new folder with name of your search/tag input and save each manga in their individually folders.
 
 ![](image.png)
-
+![](New Project(2).png)
 ## Installation
 ### Ruby Installation
 
