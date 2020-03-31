@@ -14,7 +14,7 @@ Once the program is executed it creates a new folder with name of your search/ta
 
 ![](image.png)
 
-![](New Project(2).png)
+![](New Project.png)
 
 ## Installation
 ### Ruby Installation
